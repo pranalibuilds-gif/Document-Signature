@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.venv/
+backend/.venv/
+__pycache__/
+*.py[cod]
+backend/storage_data/
+.pytest_cache/
+*.sqlite
+*.db
+frontend/node_modules/
+frontend/dist/
+.coverage
+htmlcov/
